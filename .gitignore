@@ -40,3 +40,7 @@ MakeDailyProject.iml
 .idea/libraries/Maven__org_springframework_spring_tx_4_0_2_RELEASE.xml
 .idea/libraries/Maven__org_springframework_spring_web_4_0_2_RELEASE.xml
 .idea/libraries/Maven__org_springframework_spring_webmvc_4_0_2_RELEASE.xml
+.idea/encodings.xml
+target/classes/com/makedaily/dao/UserDao.class
+target/make-daily-1.0-SNAPSHOT.jar
+target/maven-archiver/pom.properties
