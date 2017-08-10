@@ -1,4 +1,4 @@
-package lcw.model;
+package com.makedaily.model;
 
 public class User {
     /**

@@ -1,6 +1,6 @@
-package lcw.dao;
+package com.makedaily.dao;
 
-import lcw.model.User;
+import com.makedaily.model.User;
 
 public interface UserMapper {
     /**
