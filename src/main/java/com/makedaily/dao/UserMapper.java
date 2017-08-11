@@ -1,6 +1,8 @@
 package com.makedaily.dao;
 
 import com.makedaily.model.User;
+import org.springframework.stereotype.Repository;
+
 
 public interface UserMapper {
     /**
